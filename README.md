@@ -1,9 +1,7 @@
 # CDSGD
-This is a repository for Consensus Based Distributed Stochastic Gradient Descent. For more details, please see the paper: 
+This is a placeholder repository for Consensus Based Distributed Stochastic Gradient Descent. For more details, please see the paper: 
 **[Collaborative Deep Learning in Fixed Topology Networks][1]**  
 Zhanhong Jiang, Aditya Balu, Chinmay Hegde, Soumik Sarkar
-
-Demo: [SCS Lab][2]
 
 ### Usage
 
