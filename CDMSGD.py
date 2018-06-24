@@ -38,7 +38,7 @@ class CDMSGD(Optimizer):
     """
 
     def __init__(self, lr=0.01, momentum=0., decay=0.,
-                 nesterov=False, optparam=[],**kwargs):
+                 nesterov=True, optparam=[],**kwargs):
         super(CDMSGD, self).__init__(**kwargs)
         self.iterations = K.variable(0., name='iterations')
         self.lr = K.variable(lr, name='lr')
